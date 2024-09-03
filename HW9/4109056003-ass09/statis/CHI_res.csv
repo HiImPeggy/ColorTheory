@@ -1,0 +1,11 @@
+CHI,,Cipher,,,,,Resullts
+Image,Type,Red,Green,Blue,alpha,chi value,Red,Green,Blue
+Aerial.png,gray,35937.93359375,,,0.05,293.248,fail
+Babara.png,gray,119366.421875,,,0.05,293.248,fail
+Baboon.png,gray,13168.15234375,,,0.05,293.248,fail
+Boat.png,gray,20386.369140625,,,0.05,293.248,fail
+house.png,gray,20387.080078125,,,0.05,293.248,fail
+Lena.png,gray,15638.462890625,,,0.05,293.248,fail
+Peppers.png,gray,14366.935546875,,,0.05,293.248,fail
+Tank.png,gray,58525.359375,,,0.05,293.248,fail
+Truck.png,gray,12909.916015625,,,0.05,293.248,fail
