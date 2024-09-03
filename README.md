@@ -87,9 +87,3 @@
 
 算出以EAT加密後的影像和加密前的影像之間 (1) variance of histogram (VOH); (2) Chi-square test; (3) Pear correlation coefficients; (4) Global information entropy。
 
-最感到困難的作業與原因
-我認為作業9是較為困難的作業，因為要計算水平、垂直、對角的Pear correlation coefficients，步驟較多因此比較困難。
-
-述評
-老師在上課時十分有熱忱，並且會盡量深入淺出的講解，不僅會注意學生聽不聽的懂，也會引導學生思考，我認為受益良多，找不太到缺失的部分。
-每次的作業練習我認為都出的蠻好的，每次在寫作業時都能更了解每個方法的背後原理。
